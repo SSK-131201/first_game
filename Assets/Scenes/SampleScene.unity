@@ -239,7 +239,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1701bc05ac20f9e44851228a2df6dd1e, type: 2}
+  - {fileID: 2100000, guid: 2c24740ede1951347a882081e4e6cf46, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -339,7 +339,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: adaaeba0b60105b429259ddfd478ce29, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6f18f862dd3887343b04834a1617c6c9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -358,7 +358,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1043178666}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.03, y: -3.46, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -373,10 +373,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1043178666}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dba4b9a9022e9eb4aa5a9c6f8ce279f6, type: 3}
+  m_Script: {fileID: 11500000, guid: d4b5f8971e480214e9cab0d16c56633c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 2
+  playerSpeed: 5
   upButton: 1101000077000000
   downButton: 1201000073000000
   leftButton: 1401000061000000
